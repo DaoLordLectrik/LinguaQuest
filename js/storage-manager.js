@@ -1,6 +1,6 @@
 // Configuration
 const CONFIG = {
-    UNSPLASH_ACCESS_KEY: 'demo-key', // Replace with your actual Unsplash API key
+    UNSPLASH_ACCESS_KEY: '1N2JAYIEtLdtnKM8LS6zR4BgUwtxA2xaPw42g9id7T0',
     DICTIONARY_API_URL: 'https://api.dictionaryapi.dev/api/v2/entries/en/',
     TRANSLATE_API_URL: 'https://api.mymemory.translated.net/get',
     UNSPLASH_API_URL: 'https://api.unsplash.com/search/photos',
