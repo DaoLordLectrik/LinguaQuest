@@ -1,9 +1,9 @@
 // Configuration
 const CONFIG = {
-    UNSPLASH_ACCESS_KEY: '1N2JAYIEtLdtnKM8LS6zR4BgUwtxA2xaPw42g9id7T0',
-    DICTIONARY_API_URL: 'https://api.dictionaryapi.dev/api/v2/entries/en/',
-    TRANSLATE_API_URL: 'https://api.mymemory.translated.net/get',
-    UNSPLASH_API_URL: 'https://api.unsplash.com/search/photos',
+    //UNSPLASH_ACCESS_KEY: '1N2JAYIEtLdtnKM8LS6zR4BgUwtxA2xaPw42g9id7T0',
+    //DICTIONARY_API_URL: 'https://api.dictionaryapi.dev/api/v2/entries/en/',
+    //TRANSLATE_API_URL: 'https://api.mymemory.translated.net/get',
+    //UNSPLASH_API_URL: 'https://api.unsplash.com/search/photos',
     GAME_TIMER_DURATION: 30,
     DIFFICULTY_LEVELS: {
         easy: { timeBonus: 1.5, hintPenalty: 0.5 },
