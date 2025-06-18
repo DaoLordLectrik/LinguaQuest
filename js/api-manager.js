@@ -2,10 +2,10 @@
 class APIManager {
     constructor() {
         this.cache = new Map();
-        // this.UNSPLASH_ACCESS_KEY = '1N2JAYIEtLdtnKM8LS6zR4BgUwtxA2xaPw42g9id7T0';
-        // this.UNSPLASH_API_URL = 'https://api.unsplash.com/search/photos';
-        // this.DICTIONARY_API_URL = 'https://api.dictionaryapi.dev/api/v2/entries/en/';
-        // this.TRANSLATE_API_URL = 'https://api.mymemory.translated.net/get';
+        this.UNSPLASH_ACCESS_KEY = '1N2JAYIEtLdtnKM8LS6zR4BgUwtxA2xaPw42g9id7T0';
+        this.UNSPLASH_API_URL = 'https://api.unsplash.com/search/photos';
+        this.DICTIONARY_API_URL = 'https://api.dictionaryapi.dev/api/v2/entries/en/';
+        this.TRANSLATE_API_URL = 'https://api.mymemory.translated.net/get';
     }
 
     async translateText(text, fromLang, toLang) {
